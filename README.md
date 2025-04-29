@@ -12,20 +12,11 @@ I'm a **Senior Full Stack Developer** passionate about building scalable, intera
 
 ### 📚 Skills
 
-**Frontend:**
-- React, Next.js, TypeScript, Vue, Angular.js, Tailwind CSS, Three.js, Babylon.js
-
-**Backend:**
-- Node.js, Hono, Nest.js, Websockets, AWS Lambda, Drizzle, Knex, SQL
-
-**Databases:**
-- MongoDB, PostgreSQL, SQLite
-
-**DevOps & Cloud:**
-- AWS, Docker, CI/CD pipelines
-
-**Other Expertise:**
-- Micro-frontends, Module Federation, Stripe, Paddle, System Architecture, Leadership
+- **Frontend:** React, Next.js, TypeScript, Vue, Angular.js, Tailwind CSS, Three.js, Babylon.js
+- **Backend:** Node.js, Hono, Nest.js, Websockets, AWS Lambda, Drizzle, Knex, SQL
+- **Databases:** MongoDB, PostgreSQL, SQLite
+- **DevOps & Cloud:** AWS, Docker, CI/CD pipelines
+- **Other Expertise:** Micro-frontends, Module Federation, Stripe, Paddle, System Architecture, Leadership
 
 ### 📗 Experience Highlights
 
